@@ -1,0 +1,13 @@
+h1 {
+  padding: 5%;
+  text-align: center;
+}
+
+p, form {
+  padding: 2%;
+  text-align: center;
+}
+
+body {
+  background-color: #b4d0db;
+}

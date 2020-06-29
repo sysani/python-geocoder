@@ -1,13 +1,30 @@
 h1 {
   padding: 5%;
-  text-align: center;
 }
 
 p, form {
   padding: 2%;
+}
+
+a > .btn {
+  font-weight: bold;
+  margin: 1%;
+}
+
+a > .btn:hover {
+  text-decoration: underline;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
   text-align: center;
 }
 
 body {
   background-color: #b4d0db;
+  text-align: center;
 }
